@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_GyroPanel (1).234073367.00" t="ExcludeRecursive" />
+    <e p="E:\Unity\project\GyroPanel (1)" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Script" t="Include">
+        <e p="AdManager.cs" t="Include" />
+        <e p="DeadLine.cs" t="Include" />
+        <e p="GameManager.cs" t="Include" />
+        <e p="GyroManager.cs" t="Include" />
+        <e p="PanelManager.cs" t="Include" />
+        <e p="PanelRotate.cs" t="Include" />
+        <e p="SphereManager.cs" t="Include" />
+        <e p="TouchPanelMove.cs" t="Include" />
+        <e p="UIManager.cs" t="Include" />
+      </e>
+      <e p="GyroPanel (1).sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
